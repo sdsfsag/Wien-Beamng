@@ -1,4 +1,3 @@
-# Wien-Beamng
 # Wien BeamNG.drive – 6 Bezirke
 
 Eine Wien-Map für BeamNG.drive mit den Bezirken:
